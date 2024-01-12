@@ -1,0 +1,8 @@
+IVORY
+색깔
+MAGENTA
+색깔
+EARTH
+둥근 물체
+MONSTER BALL
+둥근 물체
